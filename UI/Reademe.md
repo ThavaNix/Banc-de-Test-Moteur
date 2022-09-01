@@ -1,1 +1,0 @@
-UI Test de Réception.
